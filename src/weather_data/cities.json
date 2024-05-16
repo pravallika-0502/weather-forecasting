@@ -1,0 +1,993 @@
+[
+  {
+    "name": "Guntur",
+    "main": {
+      "temp": 293.15,
+      "humidity": 82
+    },
+    "wind": {
+      "speed": 2.1
+    }
+  },
+  {
+    "name": "New York",
+    "main": {
+      "temp": 290.15,
+      "humidity": 70
+    },
+    "wind": {
+      "speed": 3.5
+    }
+  },
+  {
+    "name": "Tokyo",
+    "main": {
+      "temp": 295.15,
+      "humidity": 75
+    },
+    "wind": {
+      "speed": 2.8
+    }
+  },
+  {
+    "name": "London",
+    "main": {
+      "temp": 287.15,
+      "humidity": 80
+    },
+    "wind": {
+      "speed": 4.2
+    }
+  },
+  {
+    "name": "Paris",
+    "main": {
+      "temp": 288.15,
+      "humidity": 75
+    },
+    "wind": {
+      "speed": 3.9
+    }
+  },
+  {
+    "name": "Sydney",
+    "main": {
+      "temp": 298.15,
+      "humidity": 65
+    },
+    "wind": {
+      "speed": 3.1
+    }
+  },
+  {
+    "name": "Los Angeles",
+    "main": {
+      "temp": 292.15,
+      "humidity": 75
+    },
+    "wind": {
+      "speed": 2.7
+    }
+  },
+  {
+    "name": "Chicago",
+    "main": {
+      "temp": 288.15,
+      "humidity": 70
+    },
+    "wind": {
+      "speed": 3.3
+    }
+  },
+  {
+    "name": "Moscow",
+    "main": {
+      "temp": 277.15,
+      "humidity": 85
+    },
+    "wind": {
+      "speed": 5.6
+    }
+  },
+  {
+    "name": "Berlin",
+    "main": {
+      "temp": 285.15,
+      "humidity": 78
+    },
+    "wind": {
+      "speed": 4.1
+    }
+  },
+  {
+    "name": "Rome",
+    "main": {
+      "temp": 289.15,
+      "humidity": 72
+    },
+    "wind": {
+      "speed": 3.8
+    }
+  },
+  {
+    "name": "Madrid",
+    "main": {
+      "temp": 290.15,
+      "humidity": 68
+    },
+    "wind": {
+      "speed": 3.6
+    }
+  },
+  {
+    "name": "Beijing",
+    "main": {
+      "temp": 292.15,
+      "humidity": 60
+    },
+    "wind": {
+      "speed": 2.5
+    }
+  },
+  {
+    "name": "Shanghai",
+    "main": {
+      "temp": 294.15,
+      "humidity": 62
+    },
+    "wind": {
+      "speed": 3.0
+    }
+  },
+  {
+    "name": "Bangkok",
+    "main": {
+      "temp": 298.15,
+      "humidity": 65
+    },
+    "wind": {
+      "speed": 2.9
+    }
+  },
+  {
+    "name": "Singapore",
+    "main": {
+      "temp": 299.15,
+      "humidity": 70
+    },
+    "wind": {
+      "speed": 2.8
+    }
+  },
+  {
+    "name": "Dubai",
+    "main": {
+      "temp": 302.15,
+      "humidity": 55
+    },
+    "wind": {
+      "speed": 3.7
+    }
+  },
+  {
+    "name": "Istanbul",
+    "main": {
+      "temp": 289.15,
+      "humidity": 75
+    },
+    "wind": {
+      "speed": 4.0
+    }
+  },
+  {
+    "name": "Mumbai",
+    "main": {
+      "temp": 301.15,
+      "humidity": 70
+    },
+    "wind": {
+      "speed": 2.6
+    }
+  },
+  {
+    "name": "Sao Paulo",
+    "main": {
+      "temp": 294.15,
+      "humidity": 65
+    },
+    "wind": {
+      "speed": 2.3
+    }
+  },
+  {
+    "name": "Mexico City",
+    "main": {
+      "temp": 289.15,
+      "humidity": 68
+    },
+    "wind": {
+      "speed": 2.2
+    }
+  },
+  {
+    "name": "Cairo",
+    "main": {
+      "temp": 304.15,
+      "humidity": 55
+    },
+    "wind": {
+      "speed": 3.5
+    }
+  },
+  {
+    "name": "Lagos",
+    "main": {
+      "temp": 302.15,
+      "humidity": 75
+    },
+    "wind": {
+      "speed": 2.0
+    }
+  },
+  {
+    "name": "Buenos Aires",
+    "main": {
+      "temp": 295.15,
+      "humidity": 60
+    },
+    "wind": {
+      "speed": 2.8
+    }
+  },
+  {
+    "name": "Rio de Janeiro",
+    "main": {
+      "temp": 297.15,
+      "humidity": 70
+    },
+    "wind": {
+      "speed": 2.4
+    }
+  },
+  {
+    "name": "Lima",
+    "main": {
+      "temp": 292.15,
+      "humidity": 65
+    },
+    "wind": {
+      "speed": 2.1
+    }
+  },
+  {
+    "name": "Santiago",
+    "main": {
+      "temp": 292.15,
+      "humidity": 70
+    },
+    "wind": {
+      "speed": 2.6
+    }
+  },
+  {
+    "name": "Toronto",
+    "main": {
+      "temp": 287.15,
+      "humidity": 65
+    },
+    "wind": {
+      "speed": 3.1
+    }
+  },
+  {
+    "name": "Vancouver",
+    "main": {
+      "temp": 285.15,
+      "humidity": 60
+    },
+    "wind": {
+      "speed": 3.5
+    }
+  },
+  {
+    "name": "Montreal",
+    "main": {
+      "temp": 285.15,
+      "humidity": 62
+    },
+    "wind": {
+      "speed": 3.2
+    }
+  },
+  {
+    "name": "Ottawa",
+    "main": {
+      "temp": 285.15,
+      "humidity": 63
+    },
+    "wind": {
+      "speed": 3.0
+    }
+  },
+  {
+    "name": "Calgary",
+    "main": {
+      "temp": 283.15,
+      "humidity": 58
+    },
+    "wind": {
+      "speed": 3.8
+    }
+  },
+  {
+    "name": "Edmonton",
+    "main": {
+      "temp": 283.15,
+      "humidity": 59
+    },
+    "wind": {
+      "speed": 4.0
+    }
+  },
+  {
+    "name": "Halifax",
+    "main": {
+      "temp": 283.15,
+      "humidity": 64
+    },
+    "wind": {
+      "speed": 3.4
+    }
+  },
+  {
+    "name": "Quebec City",
+    "main": {
+      "temp": 283.15,
+      "humidity": 62
+    },
+    "wind": {
+      "speed": 3.3
+    }
+  },
+  {
+    "name": "Winnipeg",
+    "main": {
+      "temp": 279.15,
+      "humidity": 56
+    },
+    "wind": {
+      "speed": 3.9
+    }
+  },
+  {
+    "name": "Regina",
+    "main": {
+      "temp": 280.15,
+      "humidity": 55
+    },
+    "wind": {
+      "speed": 4.2
+    }
+  },
+  {
+    "name": "Saskatoon",
+    "main": {
+      "temp": 279.15,
+      "humidity": 58
+    },
+    "wind": {
+      "speed": 4.1
+    }
+  },
+  {
+    "name": "Victoria",
+    "main": {
+      "temp": 284.15,
+      "humidity": 59
+    },
+    "wind": {
+      "speed": 3.6
+    }
+  },
+  {
+    "name": "St. John's",
+    "main": {
+      "temp": 280.15,
+      "humidity": 62
+    },
+    "wind": {
+      "speed": 3.8
+    }
+  },
+  {
+    "name": "Charlottetown",
+    "main": {
+      "temp": 282.15,
+      "humidity": 63
+    },
+    "wind": {
+      "speed": 3.5
+    }
+  },
+  {
+    "name": "Yellowknife",
+    "main": {
+      "temp": 276.15,
+      "humidity": 60
+    },
+    "wind": {
+      "speed": 4.4
+    }
+  },
+  {
+    "name": "Whitehorse",
+    "main": {
+      "temp": 280.15,
+      "humidity": 58
+    },
+    "wind": {
+      "speed": 4.0
+    }
+  },
+  {
+    "name": "Iqaluit",
+    "main": {
+      "temp": 275.15,
+      "humidity": 59
+    },
+    "wind": {
+      "speed": 4.5
+    }
+  },
+  {
+    "name": "Baker Lake",
+    "main": {
+      "temp": 276.15,
+      "humidity": 61
+    },
+    "wind": {
+      "speed": 4.2
+    }
+  },
+  {
+    "name": "Kuujjuaq",
+    "main": {
+      "temp": 278.15,
+      "humidity": 62
+    },
+    "wind": {
+      "speed": 4.3
+    }
+  },
+  {
+    "name": "Inuvik",
+    "main": {
+      "temp": 274.15,
+      "humidity": 57
+    },
+    "wind": {
+      "speed": 4.6
+    }
+  },
+  {
+    "name": "Rankin Inlet",
+    "main": {
+      "temp": 276.15,
+      "humidity": 58
+    },
+    "wind": {
+      "speed": 4.1
+    }
+  },
+  {
+    "name": "Yellowknife",
+    "main": {
+      "temp": 276.15,
+      "humidity": 60
+    },
+    "wind": {
+      "speed": 4.4
+    }
+  },
+  {
+    "name": "Resolute",
+    "main": {
+      "temp": 271.15,
+      "humidity": 55
+    },
+    "wind": {
+      "speed": 4.8
+    }
+  },
+  {
+    "name": "Alert",
+    "main": {
+      "temp": 267.15,
+      "humidity": 50
+    },
+    "wind": {
+      "speed": 5.0
+    }
+  },
+  {
+    "name": "Pond Inlet",
+    "main": {
+      "temp": 275.15,
+      "humidity": 56
+    },
+    "wind": {
+      "speed": 4.3
+    }
+  },
+  {
+    "name": "Igloolik",
+    "main": {
+      "temp": 276.15,
+      "humidity": 57
+    },
+    "wind": {
+      "speed": 4.5
+    }
+  },
+  {
+    "name": "Coral Harbour",
+    "main": {
+      "temp": 275.15,
+      "humidity": 58
+    },
+    "wind": {
+      "speed": 4.2
+    }
+  },
+  {
+    "name": "Cambridge Bay",
+    "main": {
+      "temp": 275.15,
+      "humidity": 59
+    },
+    "wind": {
+      "speed": 4.6
+    }
+  },
+  {
+    "name": "Rankin Inlet",
+    "main": {
+      "temp": 276.15,
+      "humidity": 58
+    },
+    "wind": {
+      "speed": 4.1
+    }
+  },
+  {
+    "name": "Baker Lake",
+    "main": {
+      "temp": 276.15,
+      "humidity": 61
+    },
+    "wind": {
+      "speed": 4.2
+    }
+  },
+  {
+    "name": "Chesterfield Inlet",
+    "main": {
+      "temp": 275.15,
+      "humidity": 60
+    },
+    "wind": {
+      "speed": 4.4
+    }
+  },
+  {
+    "name": "Coral Harbour",
+    "main": {
+      "temp": 275.15,
+      "humidity": 58
+    },
+    "wind": {
+      "speed": 4.2
+    }
+  },
+  {
+    "name": "Baker Lake",
+    "main": {
+      "temp": 276.15,
+      "humidity": 61
+    },
+    "wind": {
+      "speed": 4.2
+    }
+  },
+  {
+    "name": "Rankin Inlet",
+    "main": {
+      "temp": 276.15,
+      "humidity": 58
+    },
+    "wind": {
+      "speed": 4.1
+    }
+  },
+  {
+    "name": "Chesterfield Inlet",
+    "main": {
+      "temp": 275.15,
+      "humidity": 60
+    },
+    "wind": {
+      "speed": 4.4
+    }
+  },
+  {
+    "name": "Igloolik",
+    "main": {
+      "temp": 276.15,
+      "humidity": 57
+    },
+    "wind": {
+      "speed": 4.5
+    }
+  },
+  {
+    "name": "Cape Dorset",
+    "main": {
+      "temp": 276.15,
+      "humidity": 59
+    },
+    "wind": {
+      "speed": 4.6
+    }
+  },
+  {
+    "name": "San Francisco",
+    "main": {
+      "temp": 292.15,
+      "humidity": 72
+    },
+    "wind": {
+      "speed": 2.9
+    }
+  },
+  {
+    "name": "Seattle",
+    "main": {
+      "temp": 288.15,
+      "humidity": 68
+    },
+    "wind": {
+      "speed": 3.2
+    }
+  },
+  {
+    "name": "Denver",
+    "main": {
+      "temp": 284.15,
+      "humidity": 64
+    },
+    "wind": {
+      "speed": 3.4
+    }
+  },
+  {
+    "name": "Miami",
+    "main": {
+      "temp": 299.15,
+      "humidity": 75
+    },
+    "wind": {
+      "speed": 3.7
+    }
+  },
+  {
+    "name": "Boston",
+    "main": {
+      "temp": 286.15,
+      "humidity": 70
+    },
+    "wind": {
+      "speed": 3.1
+    }
+  },
+  {
+    "name": "Philadelphia",
+    "main": {
+      "temp": 288.15,
+      "humidity": 68
+    },
+    "wind": {
+      "speed": 3.0
+    }
+  },
+  {
+    "name": "Washington D.C.",
+    "main": {
+      "temp": 287.15,
+      "humidity": 68
+    },
+    "wind": {
+      "speed": 3.3
+    }
+  },
+  {
+    "name": "Atlanta",
+    "main": {
+      "temp": 290.15,
+      "humidity": 65
+    },
+    "wind": {
+      "speed": 3.6
+    }
+  },
+  {
+    "name": "Dallas",
+    "main": {
+      "temp": 292.15,
+      "humidity": 62
+    },
+    "wind": {
+      "speed": 3.9
+    }
+  },
+  {
+    "name": "Houston",
+    "main": {
+      "temp": 293.15,
+      "humidity": 62
+    },
+    "wind": {
+      "speed": 4.0
+    }
+  },
+  {
+    "name": "Phoenix",
+    "main": {
+      "temp": 296.15,
+      "humidity": 60
+    },
+    "wind": {
+      "speed": 4.2
+    }
+  },
+  {
+    "name": "Las Vegas",
+    "main": {
+      "temp": 295.15,
+      "humidity": 61
+    },
+    "wind": {
+      "speed": 4.1
+    }
+  },
+  {
+    "name": "Orlando",
+    "main": {
+      "temp": 298.15,
+      "humidity": 70
+    },
+    "wind": {
+      "speed": 3.8
+    }
+  },
+  {
+    "name": "San Diego",
+    "main": {
+      "temp": 293.15,
+      "humidity": 63
+    },
+    "wind": {
+      "speed": 4.3
+    }
+  },
+  {
+    "name": "Tampa",
+    "main": {
+      "temp": 298.15,
+      "humidity": 72
+    },
+    "wind": {
+      "speed": 3.7
+    }
+  },
+  {
+    "name": "Minneapolis",
+    "main": {
+      "temp": 281.15,
+      "humidity": 60
+    },
+    "wind": {
+      "speed": 3.5
+    }
+  },
+  {
+    "name": "St. Louis",
+    "main": {
+      "temp": 287.15,
+      "humidity": 65
+    },
+    "wind": {
+      "speed": 3.4
+    }
+  },
+  {
+    "name": "Kansas City",
+    "main": {
+      "temp": 288.15,
+      "humidity": 63
+    },
+    "wind": {
+      "speed": 3.3
+    }
+  },
+  {
+    "name": "Nashville",
+    "main": {
+      "temp": 289.15,
+      "humidity": 62
+    },
+    "wind": {
+      "speed": 3.1
+    }
+  },
+  {
+    "name": "Indianapolis",
+    "main": {
+      "temp": 286.15,
+      "humidity": 60
+    },
+    "wind": {
+      "speed": 3.0
+    }
+  },
+  {
+    "name": "Detroit",
+    "main": {
+      "temp": 285.15,
+      "humidity": 58
+    },
+    "wind": {
+      "speed": 2.9
+    }
+  },
+  {
+    "name": "Charlotte",
+    "main": {
+      "temp": 290.15,
+      "humidity": 62
+    },
+    "wind": {
+      "speed": 3.6
+    }
+  },
+  {
+    "name": "Raleigh",
+    "main": {
+      "temp": 288.15,
+      "humidity": 60
+    },
+    "wind": {
+      "speed": 3.2
+    }
+  },
+  {
+    "name": "Columbus",
+    "main": {
+      "temp": 287.15,
+      "humidity": 59
+    },
+    "wind": {
+      "speed": 3.1
+    }
+  },
+  {
+    "name": "Cleveland",
+    "main": {
+      "temp": 285.15,
+      "humidity": 57
+    },
+    "wind": {
+      "speed": 3.0
+    }
+  },
+  {
+    "name": "Cincinnati",
+    "main": {
+      "temp": 286.15,
+      "humidity": 58
+    },
+    "wind": {
+      "speed": 3.3
+    }
+  },
+  {
+    "name": "Pittsburgh",
+    "main": {
+      "temp": 285.15,
+      "humidity": 56
+    },
+    "wind": {
+      "speed": 3.2
+    }
+  },
+  {
+    "name": "Buffalo",
+    "main": {
+      "temp": 283.15,
+      "humidity": 55
+    },
+    "wind": {
+      "speed": 3.1
+    }
+  },
+  {
+    "name": "Milwaukee",
+    "main": {
+      "temp": 283.15,
+      "humidity": 54
+    },
+    "wind": {
+      "speed": 3.5
+    }
+  },
+  {
+    "name": "New Orleans",
+    "main": {
+      "temp": 292.15,
+      "humidity": 65
+    },
+    "wind": {
+      "speed": 3.7
+    }
+  },
+  {
+    "name": "Memphis",
+    "main": {
+      "temp": 291.15,
+      "humidity": 64
+    },
+    "wind": {
+      "speed": 3.8
+    }
+  },
+  {
+    "name": "Jacksonville",
+    "main": {
+      "temp": 294.15,
+      "humidity": 70
+    },
+    "wind": {
+      "speed": 3.9
+    }
+  },
+  {
+    "name": "San Antonio",
+    "main": {
+      "temp": 292.15,
+      "humidity": 63
+    },
+    "wind": {
+      "speed": 3.9
+    }
+  },
+  {
+    "name": "mangaligiri",
+    "main": {
+      "temp": 320,
+      "humidity": 63
+    },
+    "wind": {
+      "speed": 3.9
+    }
+  },
+  {
+    "name": "vijayawada",
+    "main": {
+      "temp": 292.15,
+      "humidity": 63
+    },
+    "wind": {
+      "speed": 3.9
+    }
+  }
+
+]

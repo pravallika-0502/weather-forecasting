@@ -1,0 +1,33 @@
+<html>
+<head>
+    <title>web page using CSS selectors</title>
+</head>
+<body>
+    <style>
+        .component{
+            background-color: aquamarine;
+            font-style: italic;
+            border-color: aqua;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+        #id{
+            text-align: center;
+            font-style: normal;
+           }
+    </style>
+    component{
+        <table border="1px">
+            <tr>
+                <th>#name</th>
+            </tr>
+            <tr>
+                <th>Reg.no.</th>
+            </tr>
+            <tr>
+                <td>#pravallika</td>
+                <td>#AP22110010367</td>
+            </tr>
+            </table>table>
+    }
+</body>
+</html>
